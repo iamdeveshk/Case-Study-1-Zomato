@@ -41,51 +41,31 @@ The database consists of **7 interconnected tables**:
 
 ---
 
-## 🧠 Business Questions Answered
-- The number of orders placed by each customers.
-- Restaurant with most number of menu items. 
-- Number of votes and average rating for all the restaurants.
-- Restaurant with max revenue in a given month (May).
-- Restaurant with sales> x
-- Customers who have never ordered (using SQL SET operators).
-- Show order details of a particular customer in a given date range (Range: 15May- 15 June 2022).
-- Find most costly restaurants (Avg price / dish).
-- Delivery partner compensation using the formula (#deliveries*100 + 10000*avg_rating).
-- All the veg restaurants.
-- Minimum and Maximum order value for all the customers.
+## 📈 Key Insights
+- A small percentage of restaurants contribute a major share of platform revenue.
+- High-value repeat users significantly impact total earnings.
+- Certain food items dominate ordering patterns across restaurants.
+- Delivery partner earnings are strongly correlated with order volume.
 
 ---
-📈 Key Insights
 
-A small percentage of restaurants contribute a disproportionately large share of total platform revenue.
+## 🚀 What This Project Demonstrates
+- Translating business problems into SQL queries
+- Writing clean, scalable multi-table JOINs
+- Revenue computation using line-item data
+- Practical handling of real-world relational schemas
+- Analytical thinking beyond basic SQL syntax
 
-High-value, repeat users have a significant impact on overall earnings.
+---
 
-Certain food items consistently dominate ordering patterns across multiple restaurants.
+## 📎 How to Use This Repository
+1. Clone or download the repository
+2. Import the SQL files into MySQL
+3. Execute queries sequentially to explore insights
 
-Delivery partner earnings show a strong correlation with order volume.
+---
 
-🚀 What This Project Demonstrates
+## 🤝 Feedback & Collaboration
+Feedback and suggestions are welcome.  
+Feel free to connect or raise an issue for discussion.
 
-Translating business problems into well-structured SQL queries
-
-Writing clean, scalable multi-table JOINs
-
-Accurate revenue computation using line-item–level data
-
-Practical handling of real-world relational database schemas
-
-Analytical thinking that goes beyond basic SQL syntax
-
-📎 How to Use This Repository
-
-Clone or download the repository
-
-Import the SQL files into MySQL
-
-Execute the queries sequentially to explore insights
-
-🤝 Feedback & Collaboration
-
-Feedback, suggestions, and improvements are welcome.
-Feel free to connect or raise an issue to discuss this project.
