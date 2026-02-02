@@ -41,12 +41,6 @@ The database consists of **7 interconnected tables**:
 
 ---
 ## 🧠 Business Questions Answered
-- What is the total revenue generated?
-- Which restaurants generate the highest revenue?
-- Who are the highest-spending users?
-- What are the most frequently ordered food items?
-- How does revenue change month-wise?
-- Which delivery partners earn the most?
 - The number of orders placed by each customers.
 - Restaurant with most number of menu items. 
 - Number of votes and average rating for all the restaurants.
