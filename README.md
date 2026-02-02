@@ -55,3 +55,37 @@ The database consists of **7 interconnected tables**:
 - Minimum and Maximum order value for all the customers.
 
 ---
+📈 Key Insights
+
+A small percentage of restaurants contribute a disproportionately large share of total platform revenue.
+
+High-value, repeat users have a significant impact on overall earnings.
+
+Certain food items consistently dominate ordering patterns across multiple restaurants.
+
+Delivery partner earnings show a strong correlation with order volume.
+
+🚀 What This Project Demonstrates
+
+Translating business problems into well-structured SQL queries
+
+Writing clean, scalable multi-table JOINs
+
+Accurate revenue computation using line-item–level data
+
+Practical handling of real-world relational database schemas
+
+Analytical thinking that goes beyond basic SQL syntax
+
+📎 How to Use This Repository
+
+Clone or download the repository
+
+Import the SQL files into MySQL
+
+Execute the queries sequentially to explore insights
+
+🤝 Feedback & Collaboration
+
+Feedback, suggestions, and improvements are welcome.
+Feel free to connect or raise an issue to discuss this project.
